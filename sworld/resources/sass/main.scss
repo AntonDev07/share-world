@@ -1,0 +1,47 @@
+
+.col-sm-9 div.d-flex p {
+    font-size: 15px;
+}
+
+.heading-3 {
+    font-weight: 300;
+    font-size: 30px;
+
+}
+
+.heading-4 {
+    font-weight: 700;
+    font-size: 20px;
+}
+.profile-text {
+    font-size: 15px;
+
+}
+.profile-link {
+    font-weight: 600;
+    font-size: 16px;
+}
+.logo-profile {
+    border-radius: 50%;
+}
+
+.image-grid {
+    transition: all .3s;
+}
+
+.image-grid:hover {
+    filter: brightness(0.85);
+}
+
+// POST VIEW
+.post-wrap {
+
+}
+.post {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 4px;
+    border:1px solid #bdc3c7;
+    margin-bottom: 30px;
+}
